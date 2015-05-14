@@ -1,0 +1,9 @@
+[package]
+name = "connect_four"
+version = "0.0.1"
+authors = ["Jimmy Cuadra <jimmy@jimmycuadra.com>"]
+description = "The game of Connect Four."
+homepage = "https://github.com/jimmycuadra/connect_four"
+repository = "https://github.com/jimmycuadra/connect_four"
+license = "MIT"
+readme = "README.md"
